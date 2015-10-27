@@ -1,4 +1,4 @@
-12Hearthstone-Deck-Tracker
+123Hearthstone-Deck-Tracker
 ========================
 HDT is an automatic deck tracker and manager for Hearthstone.
 
