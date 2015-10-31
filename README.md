@@ -63,5 +63,5 @@ The app:
 ![Stats](http://i.imgur.com/tuxOFmg.png "Deck stats")
 
 
-Donations are always appreciated
+Donations are always appreciated!
 [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PZDMUT88NLFYJ)
